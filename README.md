@@ -28,8 +28,14 @@ Coming soon.
 2. M. A. Prado-Romero, et al., “A survey on graph counterfactual explanations: Definitions, methods, evaluation, and research challenges,” ACM Comput. Surv., 2023, to be published.([Paper](link-to-paper))
 
 ## Code and Packages
+### CIGNNs
 1. S. Gui, et al., “GOOD: A graph out-of-distribution benchmark,” in Adv. Neural Inf. Process. Syst. 35, 2022, pp. 2059–2073. ([Paper](link-to-paper)), ([Github](https://github.com/divelab/GOOD/))
-2. 
+2. M. A. Prado-Romero and G. Stilo, “GRETEL: graph counterfactual explanation evaluation framework,” in Proc. 31st ACM Int. Conf. Inf. Knowl. Manage., 2022, pp. 4389–4393. ([Paper](link-to-paper)), ([Github](https://github.com/MarioTheOne/GRETEL))
+3. M. A. Prado-Romero, et al., “Developing and evaluating graph counterfactual explanation with GRETEL,” in Proc. 16th ACM Int. Conf. Web Search and Data Mining, 2023, pp. 1180–1183. ([Paper](link-to-paper)), ([Github](https://github.com/MarioTheOne/GRETEL))
+
+### Causal Learning
+1. P. Sheth, et al., “Causebox: A causal inference toolbox for benchmarkingtreatment effect estimators with machine learning methods,” in Proc. 30th ACM Int. Conf. Inf. Knowl. Manage., 2021, pp. 4789–4793. ([Paper](link-to-paper)), ([Github](https://github.com/paras2612/CauseBox))
+2. Y. Zheng, et al., “Causal-learn: Causal discovery in python,” CoRR, vol. abs/2307.16405, 2023. ([Paper](link-to-paper)), ([Github](https://github.com/py-why/causal-learn))
 
 
 ## Contributing
