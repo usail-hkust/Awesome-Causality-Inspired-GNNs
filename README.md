@@ -44,4 +44,4 @@ We welcome contributions! If you know of any causality-inspired GNN works that a
 
 ## License
 
-This project is licensed under the [MIT License](link-to-license).
+This project is licensed under the MIT License.
