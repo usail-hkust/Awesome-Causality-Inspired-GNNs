@@ -17,7 +17,7 @@ Coming soon.
 
 3. Y. Ji, et al., “Drugood: Out-of-distribution (OOD) dataset curator and benchmark for ai-aided drug discovery - A focus on affinity prediction problems with noise annotations,” CoRR, vol. abs/2201.09637, 2022. [Paper](https://arxiv.org/pdf/2201.09637), [Github](https://github.com/tencent-ailab/DrugOOD)
 
-4. Z. Wang, et al., “Towards out-of-distribution generalizable predictions of chemical kinetics properties,” CoRR, vol. abs/2310.03152, 2023. [Paper](https://arxiv.org/pdf/2310.03152)， [Github](https://github.com/zihao-wang/ReactionOOD)
+4. Z. Wang, et al., “Towards out-of-distribution generalizable predictions of chemical kinetics properties,” CoRR, vol. abs/2310.03152, 2023. [Paper](https://arxiv.org/pdf/2310.03152)，[Github](https://github.com/zihao-wang/ReactionOOD)
 
 ### Fairness
 1. Y. Dong, et al., “Fairness in graph mining: A survey,” CoRR, vol. abs/2204.09888, 2022. [Paper](https://ieeexplore.ieee.org/iel7/69/4358933/10097603.pdf), [Github](https://github.com/yushundong/Graph-Mining-Fairness-Data)
