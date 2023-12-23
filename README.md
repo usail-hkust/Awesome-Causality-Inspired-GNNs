@@ -2,12 +2,6 @@
 
 This repository curated list of Causality-Inspired Graph Neural Network (CIGNN) works and relevant resources reviewed in our survey 'A Survey on Trustworthy Graph Neural Networks: From A Causal Perspective'. Recently, the integration of causal learning techniques into GNNs has demonstrated significant potential in mitigating trustworthiness issues. This is achieved by capturing the underlying data causality instead of relying on superficial correlations. In this survey, we comprehensively reviews the recent progress of CIGNNs within a novel taxonomy, aiming to distill the fundamental rationales behind these works in the lens of causality and spark further research on this promising direction. A preprint version can be found at [Link](http://arxiv.org/abs/2312.12477).
 
-## Causality-Inspired GNN Works
-
-Coming soon.
-
-<!-- Repeat the above format for each relevant work -->
-
 ## Benchmark Datasets
 
 ### OOD
@@ -38,6 +32,12 @@ Coming soon.
 2. Y. Zheng, et al., “Causal-learn: Causal discovery in python,” CoRR, vol. abs/2307.16405, 2023. [Paper](https://arxiv.org/pdf/2307.16405), [Github](https://github.com/py-why/causal-learn)
 3. A. Bizeul, et al., "3DIdentBox: A Toolbox for Identifiability Benchmarking," Int. Conf. Learn. Representations, 2023. [Paper](https://www.cclear.cc/2023/AcceptedDatasets/bizeul23a.pdf), [Github](https://github.com/alicebizeul/3DIdentBox)
 
+## Causality-Inspired GNN Works
+
+Coming soon.
+
+<!-- Repeat the above format for each relevant work -->
+
 ## Contributing
 
 We welcome contributions! If you know of any causality-inspired GNN works that are not listed, feel free to [open an issue](https://github.com/usail-hkust/Causality-Inspired-GNNs/issues).
@@ -45,3 +45,16 @@ We welcome contributions! If you know of any causality-inspired GNN works that a
 ## License
 
 This project is licensed under the MIT License.
+
+## References
+
+If you find our work useful for your research, please consider citing
+
+```bibtex
+@article{jiang2023survey,
+  title={Survey on Trustworthy Graph Neural Networks: From A Causal Perspective},
+  author={Jiang, Wenzhao and Liu, Hao and Xiong, Hui},
+  journal={arXiv preprint arXiv:2312.12477},
+  year={2023}
+}
+```
