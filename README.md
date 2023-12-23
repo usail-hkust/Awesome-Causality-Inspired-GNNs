@@ -40,7 +40,7 @@ Coming soon.
 
 ## Contributing
 
-We welcome contributions! If you know of any causality-inspired GNN works that are not listed, feel free to [open an issue](https://github.com/usail-hkust/Causality-Inspired-GNNs/issues).
+We appreciate your kind contributions and suggestions! If you know of any causality-inspired GNN works that are not listed, feel free to [open an issue](https://github.com/usail-hkust/Causality-Inspired-GNNs/issues). We will update them in our survey and repository.
 
 ## License
 
