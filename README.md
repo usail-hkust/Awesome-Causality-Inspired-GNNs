@@ -44,7 +44,7 @@ This repository curated list of Causality-Inspired Graph Neural Network (CIGNN) 
 - Y. Wu, et al., “Deconfounding to explanation evaluation in graph neural networks,” CoRR, vol. abs/2201.08802, 2022.
 
 ##### Instrumental Variable
-- H. Gao, et al., “Robust causal graph representation learning against confounding effects,” CoRR, vol. abs/2208.08584, 2022.
+- H. Gao, et al., “Robust causal graph representation learning against confounding effects,” CoRR, vol. abs/2208.08584, 2022.
 
 ##### Stable Learning
 - S. Fan, et al., “Debiased graph neural networks with agnostic label selection bias,” CoRR, vol. abs/2201.07708, 2022.
@@ -57,7 +57,7 @@ This repository curated list of Causality-Inspired Graph Neural Network (CIGNN) 
 ##### Intervention
 - F. Feng, et al., “Should graph convolution trust neighbors? A simple causal inference method,” in Proc. 44th Int. ACM SIGIR Conf. Res. Develops. Inf. Retrieval, 2021, p. 1208–1218.
 - H. Wang, et al., “Causalbased supervision of attention in graph neural network: A better and simpler choice towards powerful attention,” in Proc. 32nd Int. Joint Conf. Artif. Intell., 2023, pp. 2315–2323.
-- K. Zhang, et al., “Rumor detection with diverse counterfactual evidence,” in Proc. 29th ACM SIGKDD Conf. Knowl. Discov. and Data Mining, 2023, pp. 3321–3331.
+- K. Zhang, et al., “Rumor detection with diverse counterfactual evidence,” in Proc. 29th ACM SIGKDD Conf. Knowl. Discov. and Data Mining, 2023, pp. 3321–3331.
 - C. Agarwal, et al., “Towards a unified framework for fair and stable graph representation learning,” in Proc. 37th Conf. Uncertainty in Artif. Intell., vol. 161, 2021, pp. 2114–2124.
 - X. Zhang, et al., “A multi-view confidencecalibrated framework for fair and stable graph representation learning,” in 2021 IEEE Int. Conf. Data Mining, 2021, pp. 1493–1498.
 - W. Lin, et al., “Generative causal explanations for graph neural networks,” in Proc. 38th Int. Conf. Mach. Learn., vol. 139, 2021, pp. 6666–6679.
