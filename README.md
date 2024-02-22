@@ -34,6 +34,19 @@ This repository curated list of Causality-Inspired Graph Neural Network (CIGNN) 
 
 ## Causality-Inspired GNN Works
 
+### (Empowered with) Causal Reasoning on Graphs
+
+#### Group-level Causal Effect Estimation
+
+##### Frontdoor Adjustment
+
+#### Individual-level Causal Effect Estimation
+
+
+### (Empowered with) Causal Discovery on Graphs
+Coming soon.
+
+### (Empowered with) Causal Representation Learning on Graphs
 Coming soon.
 
 <!-- Repeat the above format for each relevant work -->
