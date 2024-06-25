@@ -12,7 +12,7 @@
 
 
 
-This repository curated list of awesome Causality-Inspired Graph Neural Network (CIGNN) works and relevant resources reviewed in our survey 'When Graph Neural Network Meets Causality: Opportunities, Methodologies and An Outlook'. Recently, the integration of causal learning techniques into GNNs has demonstrated significant potential in mitigating trustworthiness issues. This is achieved by capturing the underlying data causality instead of relying on superficial correlations. In this survey, we comprehensively reviews the recent progress of CIGNNs within a novel taxonomy, aiming to distill the fundamental rationales behind these works in the lens of causality and spark further research on this promising direction. A preprint version can be found at [Link](http://arxiv.org/abs/2312.12477).
+This repository curated list of awesome Causality-Inspired Graph Neural Network (CIGNN) works and relevant resources reviewed in our survey '[When Graph Neural Network Meets Causality: Opportunities, Methodologies and An Outlook](http://arxiv.org/abs/2312.12477)'. Recently, the integration of causal learning techniques into GNNs has demonstrated significant potential in mitigating trustworthiness issues. This is achieved by capturing the underlying data causality instead of relying on superficial correlations. In this survey, we comprehensively reviews the recent progress of CIGNNs within a novel taxonomy, aiming to distill the fundamental rationales behind these works in the lens of causality and spark further research on this promising direction.
 
 ![taxonomy](taxonomy.png)
 
