@@ -154,7 +154,7 @@ If you find our work useful for your research, please consider citing
 
 ```bibtex
 @article{jiang2023survey,
-  title={Survey on Trustworthy Graph Neural Networks: From A Causal Perspective},
+  title={When Graph Neural Network Meets Causality: Opportunities, Methodologies and An Outlook},
   author={Jiang, Wenzhao and Liu, Hao and Xiong, Hui},
   journal={arXiv preprint arXiv:2312.12477},
   year={2023}
