@@ -1,6 +1,21 @@
-# Causality-Inspired-GNNs
+# Awesome-Causality-Inspired-GNNs
 
-This repository curated list of Causality-Inspired Graph Neural Network (CIGNN) works and relevant resources reviewed in our survey 'When Graph Neural Network Meets Causality: Opportunities, Methodologies and An Outlook'. Recently, the integration of causal learning techniques into GNNs has demonstrated significant potential in mitigating trustworthiness issues. This is achieved by capturing the underlying data causality instead of relying on superficial correlations. In this survey, we comprehensively reviews the recent progress of CIGNNs within a novel taxonomy, aiming to distill the fundamental rationales behind these works in the lens of causality and spark further research on this promising direction. A preprint version can be found at [Link](http://arxiv.org/abs/2312.12477).
+<p align="center">
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+![Testing Status](https://img.shields.io/badge/license-MIT-blue)
+
+![Visits Badge](https://badges.pufler.dev/visits/usail-hkust/Awesome-Causality-Inspired-GNNs)
+
+![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-green)
+
+![Stars](https://img.shields.io/github/stars/usail-hkust/Awesome-Causality-Inspired-GNNs)
+
+</p>
+
+
+
+This repository curated list of awesome Causality-Inspired Graph Neural Network (CIGNN) works and relevant resources reviewed in our survey 'When Graph Neural Network Meets Causality: Opportunities, Methodologies and An Outlook'. Recently, the integration of causal learning techniques into GNNs has demonstrated significant potential in mitigating trustworthiness issues. This is achieved by capturing the underlying data causality instead of relying on superficial correlations. In this survey, we comprehensively reviews the recent progress of CIGNNs within a novel taxonomy, aiming to distill the fundamental rationales behind these works in the lens of causality and spark further research on this promising direction. A preprint version can be found at [Link](http://arxiv.org/abs/2312.12477).
 
 ![taxonomy](taxonomy.png)
 
@@ -12,7 +27,7 @@ This repository curated list of Causality-Inspired Graph Neural Network (CIGNN) 
     - [Fairness](#fairness)
     - [Explainability](#explainability)
  - [Code and Packages](#code-and-packages)
-    - [CIGNNs](#cignns)
+    - [CIGNN Related](#cignn-related)
     - [Causal Learning](#causal-learning)
 
 - [CIGNN Works](#cignns-works)
