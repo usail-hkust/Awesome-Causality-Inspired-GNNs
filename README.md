@@ -157,6 +157,6 @@ If you find our work useful for your research, please consider citing
   title={When Graph Neural Network Meets Causality: Opportunities, Methodologies and An Outlook},
   author={Jiang, Wenzhao and Liu, Hao and Xiong, Hui},
   journal={arXiv preprint arXiv:2312.12477},
-  year={2023}
+  year={2024}
 }
 ```
