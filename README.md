@@ -136,7 +136,15 @@ This repository curated list of awesome Causality-Inspired Graph Neural Network 
 Coming soon.
 
 ### Causal Representation Learning on Graphs
-Coming soon.
+
+#### Supervised Learning
+
+##### Group Invariant Learning
+
+##### Joint Invariant and Variant Learning
+- (*2024*) Enhancing graph neural networks for self-explainable modeling: A causal perspective with multi-granularity receptive fields.
+
+#### Unsupervised Learning
 
 <!-- Repeat the above format for each relevant work -->
 
