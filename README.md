@@ -141,6 +141,8 @@ Coming soon.
 
 ##### Group Invariant Learning
 
+- (*KBS'24*)Fortune favors the invariant: Enhancing GNNs' generalizability with Invariant Graph Learning.
+
 ##### Joint Invariant and Variant Learning
 - (*AAAI'24*) A twist for graph classification: Optimizing causal information flow in graph neural networks.
 - (*2024*) Enhancing graph neural networks for self-explainable modeling: A causal perspective with multi-granularity receptive fields.
