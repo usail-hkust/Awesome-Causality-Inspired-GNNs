@@ -142,6 +142,7 @@ Coming soon.
 ##### Group Invariant Learning
 
 ##### Joint Invariant and Variant Learning
+- (*AAAI'24*) A twist for graph classification: Optimizing causal information flow in graph neural networks.
 - (*2024*) Enhancing graph neural networks for self-explainable modeling: A causal perspective with multi-granularity receptive fields.
 
 #### Unsupervised Learning
