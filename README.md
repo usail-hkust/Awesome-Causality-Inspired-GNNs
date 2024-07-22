@@ -145,6 +145,7 @@ Coming soon.
 
 ##### Joint Invariant and Variant Learning
 - (*AAAI'24*) A twist for graph classification: Optimizing causal information flow in graph neural networks.
+- (*ICML'24*) Learning Divergence Fields for Shift-Robust Graph Representations.
 - (*2024*) Enhancing graph neural networks for self-explainable modeling: A causal perspective with multi-granularity receptive fields.
 
 #### Unsupervised Learning
