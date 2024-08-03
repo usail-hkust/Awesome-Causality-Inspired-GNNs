@@ -115,6 +115,7 @@ This repository curated list of awesome Causality-Inspired Graph Neural Network 
 - (*ICDM'21*) A multi-view confidence calibrated framework for fair and stable graph representation learning.
 - (*ICML'21*) Generative causal explanations for graph neural networks.
 - (*TPAMI'23*) Reinforced causal explainer for graph neural networks.
+- (*KDD'24*) Rethinking Fair Graph Neural Networks from Re-balancing.
 
 ##### Matching
 - (*ICML'22*) Learning from counterfactual links for link prediction.
