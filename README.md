@@ -128,29 +128,60 @@ This repository curated list of awesome Causality-Inspired Graph Neural Network 
 #### Graph Counterfactual Generation
 
 ##### Continuous Optimization
+- (*AISTAT'22*) Cf-gnnexplainer: Counterfactual explanations for graph neural networks.
+- (*IJCNN'21*) Meg: Generating molecular coun- terfactual explanations for deep graph networks.
+- (*NIPS'22*) CLEAR: genera- tive counterfactual explanations on graphs.
+- (*WWW'22*) Learning and evaluating graph neural network explanations based on counterfactual and factual reasoning.
 
 ##### Heuristic Search
-
+- (*KDD'21*) Counterfactual graphs for explainable classification of brain networks.
 - (*NIPS'21*) Robust counterfactual explanations on graph neural networks.
+- (*ICDM'21*) Multi-objective explanations of GNN predictions.
+- (*WSDM'23*) Global counterfactual explainer for graph neural networks.
+- (*WWW'24*) Game-theoretic counterfactual explanation for graph neural networks.
 
-### Causal Discovery on Graphs
-Coming soon.
+### Causal Discovery on Graphs (To Be Explored)
+- (*AAAI'24*) Rethinking causal relationships learning in graph neural networks.
+- (*KBS'24*) Introducing diminutive causal structure into graph representation learning.
 
 ### Causal Representation Learning on Graphs
 
 #### Supervised Learning
 
 ##### Group Invariant Learning
-
-- (*KBS'24*)Fortune favors the invariant: Enhancing GNNs' generalizability with Invariant Graph Learning.
+- (*ICLR'22*) Handling distribution shifts on graphs: An invariance perspective.
+- (*ICLR'22*) Discovering invariant rationales for graph neural networks.
+- (*CVPR'23*) Mind the label shift of augmentation-based graph OOD generalization.
+- (*NIPS'22*) Learning invariant graph representations for out-of-distribution generalization.
+- (*ICDE'23*) BA-GNN: on learning bias- aware graph neural network.
+- (*TOIS'24*) Invariant node representation learning under distribution shifts with multiple latent environments.
+- (*KBS'24*) Fortune favors the invariant: Enhancing GNNs' generalizability with Invariant Graph Learning.
 
 ##### Joint Invariant and Variant Learning
+- (*KDD'22*) Causal atten- tion for interpretable and generalizable graph classification.
+- (*NIPS'22*) Debiasing graph neural networks via learning disentangled causal substructure.
+- (*NIPS'22*) Learning substructure invariance for out-of-distribution molecular representations.
+- (*NIPS'22*) Learning causally invariant representa- tions for out-of-distribution generalization on graphs.
+- (*CVPR'22*) Orphicx: A causality-inspired latent variable model for interpreting graph neural networks.
+- (*KDD'23*) Shift-robust molecular relational learning with causal substructure.
+- (*NIPS'23*) Does invariant graph learning via environment augmentation learn invariance?
+- (*NIPS'23*) Joint learning of label and environment causal independence for graph out-of-distribution generalization.
+- (*CIKM'23*) Causality and independence enhancement for biased node classification.
+- (*CIKM'23*) Towards fair graph neural networks via graph counterfactual.
 - (*AAAI'24*) A twist for graph classification: Optimizing causal information flow in graph neural networks.
+- (*WWW'24*) Graph out-of-distribution generalization via causal intervention.
 - (*ICML'24*) Learning Divergence Fields for Shift-Robust Graph Representations.
+- (*2024*) Incorporating Retrieval-based Causal Learning with Information Bottlenecks for Interpretable Graph Neural Network.
+- (*2024*) Unifying invariance and spuriousity for graph out-of- distribution via probability of necessity and sufficiency.
+- (*2024*) CI-GNN: A granger causality- inspired graph neural network for interpretable brain network- based psychiatric diagnosis.
 - (*2024*) Enhancing graph neural networks for self-explainable modeling: A causal perspective with multi-granularity receptive fields.
 
-#### Unsupervised Learning
-
+#### Self-supervised Learning
+- (*ICML'22*) Let invariant rationale discovery inspire graph contrastive learning.
+- (*KDD'23*) FLOOD: A flexible invariant learning framework for out-of-distribution generalization on graphs.
+- (*NIPS'23*) Learning invariant molecular representation in latent discrete space.
+- (*WWW'23*) Generating counterfactual hard negative samples for graph contrastive learning.
+- (*AAAI'24*) Graph contrastive invariant learning from the causal perspective.
 <!-- Repeat the above format for each relevant work -->
 
 ## Contributing
