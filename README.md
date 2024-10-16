@@ -182,6 +182,7 @@ This repository curated list of awesome Causality-Inspired Graph Neural Network 
 - (*NIPS'23*) Learning invariant molecular representation in latent discrete space.
 - (*WWW'23*) Generating counterfactual hard negative samples for graph contrastive learning.
 - (*AAAI'24*) Graph contrastive invariant learning from the causal perspective.
+- (*ICML'24*) Disentangled Graph Self-supervised Learning for Out-of-Distribution Generalization.
 - (*NN'25*) Disentangled contrastive learning for fair graph representations.
 <!-- Repeat the above format for each relevant work -->
 
