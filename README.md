@@ -62,6 +62,8 @@ This repository curated list of awesome Causality-Inspired Graph Neural Network 
 
 ### Fairness
 - (*Arxiv 2204.09888*) Fairness in graph mining: A survey. [[Paper]](https://ieeexplore.ieee.org/iel7/69/4358933/10097603.pdf), [[Github]](https://[Github].com/yushundong/Graph-Mining-Fairness-Data)
+- (*KDD'24*) Addressing Shortcomings in Fair Graph Learning Datasets: Towards a New Benchmark. [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3637528.3671616), [[Github]](https://github.com/XweiQ/Benchmark-GraphFairness)
+- (*NIPS'24*) A Benchmark for Fairness-Aware Graph Learning. [[Paper]](https://arxiv.org/pdf/2407.12112), [[Github]](https://github.com/yushundong/PyGDebias)
 
 ### Explainability
 - (*TPAMI'23*) Explainability in graph neural networks: A taxonomic survey. [[Paper]](https://ieeexplore.ieee.org/iel7/34/4359286/09875989.pdf)
