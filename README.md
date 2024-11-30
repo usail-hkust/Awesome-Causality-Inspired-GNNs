@@ -102,7 +102,7 @@ This repository curated list of awesome Causality-Inspired Graph Neural Network 
 
 ##### Stable Learning
 - (*TNNLS'22*) Debiased graph neural networks with agnostic label selection bias.
-- (*TPAMI'23*) Generalizing graph neural networks on out-of-distribution graphs. [[Github]](https://github.com/googlebaba/StableGNN)
+- (*TPAMI'23*) Generalizing graph neural networks on out-of-distribution graphs.
 - (*TKDE'23*) OOD-GNN: out-of-distribution generalized graph neural network.
 - (*AAAI'24*) Learning to reweight for generalizable graph neural network
 
